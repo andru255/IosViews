@@ -1,0 +1,22 @@
+{
+  "name": "IosViews",
+  "version": "0.1.0",
+  "summary": "A short description of IosViews.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/andru255/IosViews",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "andru255": "andru255@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/andru255/IosViews.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IosViews/Classes/**/*"
+}

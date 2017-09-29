@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+it is an apllication of demos for your project
                        DESC
 
   s.homepage         = 'https://github.com/andru255/IosViews'
